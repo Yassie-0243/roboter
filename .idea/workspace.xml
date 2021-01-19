@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="898583f3-7729-431c-961c-9365847ad43b" name="Default Changelist" comment="" />
+    <list default="true" id="898583f3-7729-431c-961c-9365847ad43b" name="Default Changelist" comment="roboterの完成" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +60,14 @@
       <option name="presentableId" value="Default" />
       <updated>1611080793858</updated>
     </task>
+    <task id="LOCAL-00001" summary="roboterの完成">
+      <created>1611090406198</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611090406198</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -72,5 +80,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="roboterの完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="roboterの完成" />
   </component>
 </project>
