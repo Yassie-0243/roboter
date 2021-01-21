@@ -102,8 +102,8 @@ def update_ranking_file(restaurant, recommend_rankings):
     if restaurant in recommend_rankings:
         recommend_rankings[restaurant] += 1
         with open('ranking.csv', 'w', newline="") as csv_file:
-            fieldnames = ['NAME', 'COUNT']
-            writer = csv.DictWriter(csv_file, fieldnames = fieldnames)
+            fields = ['NAME', 'COUNT']
+            writer = csv.DictWriter(csv_file, fieldnames = fields)
             writer.writeheader()
             for k, v in recommend_rankings.items():
                 writer.writerow({'NAME': k, 'COUNT': v})
