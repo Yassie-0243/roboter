@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="898583f3-7729-431c-961c-9365847ad43b" name="Default Changelist" comment="roboterの完成">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="898583f3-7729-431c-961c-9365847ad43b" name="Default Changelist" comment="roboterの完成" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611187571899</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="コミットテスト">
+      <created>1611189927035</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1611189927035</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,6 +118,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="roboterの完成" />
-    <option name="LAST_COMMIT_MESSAGE" value="roboterの完成" />
+    <MESSAGE value="コミットテスト" />
+    <option name="LAST_COMMIT_MESSAGE" value="コミットテスト" />
   </component>
 </project>
